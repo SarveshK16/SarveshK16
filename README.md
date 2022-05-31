@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarveshK16
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap etc.
+- 👀 I’m interested in Web Development, Flutter Development.
+- 🌱 I’m currently learning Flutter, Dart etc.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me; email- sskulkarni161@gmail.com
 
